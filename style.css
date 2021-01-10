@@ -18,7 +18,7 @@ textarea{
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid rgb(70, 236, 20);
 }
 
 .description{
@@ -61,7 +61,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: rgb(70, 236, 20);
   color: white;
 }
 
